@@ -1,0 +1,59 @@
+﻿
+.addr-style {
+	color: #004000;
+	font-family: Times, serif;
+	font-size: 16pt;
+	font-style: normal;
+	font-weight: normal;	
+	line-height: 130%;
+	
+}
+
+.Header-style {
+	color: #004000;
+	font-family: Times, serif;
+	font-size: 18pt;
+	font-style: normal;
+	font-weight: normal;	
+	line-height: 130%;
+	
+}
+
+.Tag-style {
+	color: #004000;
+	font-family:  Times, serif;
+	font-size: 14pt;
+	font-style: normal;
+	font-weight: normal;	
+	line-height: 140%;
+}
+
+.Title-style {
+	color: #000000;
+	font-family: Times, serif;
+	font-size: 48px;
+	font-style: normal; 	
+	font-weight: 120;	
+	line-height: 120%;
+
+}
+
+.TitleCap-style {
+	color: #FF0000;
+	font-family: Times, serif;
+	font-size: 62px;
+	font-style: normal; 	
+	font-weight: 900;
+	line-height: 120%;
+	
+}
+
+
+
+.auto-style2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+}
+
+
+</style>
